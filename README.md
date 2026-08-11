@@ -244,8 +244,8 @@ Contains Flask HTML templates:
 - `index.html` — main interface.
 - `result.html` — displays processing results.
 #Project output
-![output](output1.png)
-![output](output2.png)
+![output](Output1.png)
+![output](Output2.png)
 ## Testing
 
 Run the project tests using:
