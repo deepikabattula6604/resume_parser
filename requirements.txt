@@ -1,0 +1,7 @@
+pdfplumber
+PyMuPDF
+python-docx
+spacy
+pandas
+nltk
+flask

@@ -1,0 +1,10 @@
+We are hiring a Python Developer.
+
+Required skills:
+
+Python
+Machine Learning
+SQL
+AWS
+Docker
+Git
